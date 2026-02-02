@@ -1,6 +1,6 @@
 # PowerCSO
 
-A PowerShell-based text user interface (TUI) wrapper for compressing PSP and PS2 ISO files using the powerful `maxcso.exe` tool.
+A PowerShell-based text user interface (TUI) wrapper for compressing PSP (still in testing) and PS2 ISO files using the powerful `maxcso.exe` tool.
 It provides an interactive, menu-driven workflow, automatically handles dependencies where possible, and displays a detailed compression summary when processing is complete.
 
 ---
